@@ -1,0 +1,143 @@
+#######################
+#######Solutions#######
+#######################
+
+###Ex 1
+def even "Ek n=2*k":
+eval thm "Am,n ($even(m) & $even(n)) => $even(m+n)":
+
+###Ex 2
+morphism rud "0->01 1->02 2->31 3->32":
+promote RS1 rud:
+morphism codi "0->0 1->0 2->1 3->1":
+image RS2 codi RS1:
+eval test "An RS[n]=RS2[n]":
+
+###Ex 3
+reg ispower3 msd_3 "0*10*":
+eval check3 "?msd_3 An P3[n]=@1 <=> $ispower3(n)":
+
+###Ex 4
+eval tm01 "T[i]=@0 & T[i+1]=@1":
+
+###Ex 5
+def fibdist1 "?msd_fib Ei F[i]=@1 & F[i+d]=@1":
+
+###Ex 6
+def rsrun0 "n>=1 & (At t<n => RS[i+t]=@0) & RS[i+n]!=@0 & (i=0 | RS[i-1]!=@0)":
+def rsmaxrun0 "(Ei $rsrun0(i,n) & (Aj,m m>n => ~$rsrun0(j,m)))":
+
+###Ex 7
+eval sbrun "Ei n>=1 & (At t<n => SB[i+t]=SB[i]) & (SB[i+n]!=SB[i]) & (i=0 | SB[i-1]!=SB[i])":
+
+###Ex 8
+eval tmup "Ep,n (p>=1) & (Ai (i>=n) => T[i]=T[i+p])":
+
+###Ex 9
+def fibsquarelen "?msd_fib n>0 & Ei At t<n => F[i+t]=F[i+t+n]":
+reg isfib msd_fib "0*10*":
+eval seebold "?msd_fib An $isfib(n) <=> $fibsquarelen(n)":
+eval fibals "?msf_fib Ai,m En n>=m & At t<n => F[i+t]=F[i+t+n]"
+
+###Ex 10
+def tmfactoreq "At t<n => T[i+t]=T[j+t]":
+def tmprim "~(Ej j>0 & j<n & $tmfactoreq(i,i+j,n-j) & $tmfactoreq(i,(i+n)-j,j))":
+def tmprimlength "n>0 & $tmprim(0,n)":
+eval tmprimcheck "An n>=1 => $tmprimlength(n)":
+
+###Ex 11
+# SC avoids the pattern xxyyxx, m = |x|, n = |y|
+def factoreq "?msd_3 At (t<n) => SC[i+t]=SC[j+t]":
+eval xxyyxx "?msd_3 Ei,m,n (m>=1) & $factoreq(i,i+m,m) & $factoreq(i+2*m,i+2*m+n,n) & $factoreq(i,i+2*m+2*n,2*n)":
+
+###Ex 12
+morphism ff_morph "0->0100110 1->1011001":
+promote FF_word ff_morph:
+eval FF_word_52 "?msd_7 Ei,n (n>=1) & (Aj (j>=i & 2*j<=2*i+3*n) => FF_word[j]=FF_word[j+n])":
+
+###Ex 13
+def tmconj "Et t<=n & $tmfactoreq(j,i+t,n-t) &
+   $tmfactoreq(i,(j+n)-t,t)":
+def tmcu "Aj $tmconj(i,j,n) => $tmfactoreq(i,j,n)":
+def tmculen "Ei $tmcu(i,n)":
+
+###Ex 14
+def thuepal "Ei At t<n => T[i+t] = T[(i+n)-(t+1)]":
+reg isinset msd_2 "1|11|0*(1|0)*0":
+eval thuepalset "?msd_2 An $isinset(n) <=> $thuepal(n)":
+
+###Ex 15
+def cafactoreq "?msd_3 At t<n => CA[i+t]=CA[j+t]":
+def carec "?msd_3 Ai,n Ej (j>i) & $cafactoreq(i,j,n)":
+def caunifrec "?msd_3 An Ec Ai Ej (j>i) & (j<=i+c) & $cafactoreq(i,j,n)":
+
+###Ex 16
+def tmfactoreq "At t<n => T[i+t]=T[j+t]":
+def tmprim "~(Ej j>0 & j<n & $tmfactoreq(i,i+j,n-j) &
+   $tmfactoreq(i,(i+n)-j,j))":
+def tmpref "m<n & $tmfactoreq(i,j,m)":
+def tmlesst "$tmpref(i,j,m,n) | (Et t<m & t<n &
+   (Al (l<t) => T[i+l]=T[j+l]) & T[i+t]=@0 & T[j+t]=@1)":
+def tmlyndon "$tmprim(i,n) & Aj (i<j & j<i+n) =>
+   $tmlesst(i,j,n,(n+i)-j)":
+def tmlynlen "Ei $tmlyndon(i,n)":
+
+###Ex 17
+def in "i>=r & i<=s":
+def subs "j<=i & i+m<=j+n":
+def pdpal "Ak k<n => PD[i+k] = PD[i+n-1-k]":
+def pdfactoreq "Ak k<n => PD[i+k]=PD[j+k]":
+def pdoccurs "m<=n & (Ek k+m<=n & $pdfactoreq(i,j+k,m))":
+def pdrich "Am $in(m,1,n) => Ej $subs(j,i,1,m) & $pdpal(j,(i+m)-j) & ~$pdoccurs(j,i,(i+m)-j,m-1)":
+eval testpdrich "Ai,n $pdrich(i,n)":
+
+###Ex 18
+def fibsubs "?msd_fib j<=i & i+m<=j+n":
+def ffactoreq "?msd_fib At t<n => F[i+t]=F[j+t]":
+def fibunbal "?msd_fib Em m>=2 & (Ej,k $fibsubs(j,i,m,n) & $fibsubs(k,i,m,n) & $ffactoreq(j+1,k+1,m-2) & F[j]=F[(j+m)-1] & F[k]=F[(k+m)-1] & F[j]!=F[k])":
+eval fibbal "?msd_fib Ai,n ~$fibunbal(i,n)":
+
+###Ex 19
+def commontmrs "Ei,j At t<n => T[i+t]=RS[j+t]":
+
+###Ex 20
+def tmsubseq n "i<j & j<k & k<n & T[i]=@0 & T[j]=@1 & T[k]=@0":
+
+###Ex 21
+def pdpal "Aj j<n => PD[i+j]=PD[(i+n)-(j+1)]":
+def pdfactoreq "Ak k<n => PD[i+k]=PD[j+k]":
+def pdnovelpal "$pdpal(i,n) & Aj j<i => ~$pdfactoreq(i,j,n)":
+eval pdnp n "$pdnovelpal(i,n)":
+
+###Ex 22
+def ffactoreq "?msd_fib At t<n => F[i+t]=F[j+t]":
+def fnovelsq "?msd_fib $ffactoreq(i,i+n,n) & Aj j<i => ~$ffactoreq(i,j,2*n)":
+eval fibsqm n "?msd_fib $fnovelsq(i,n)":
+
+###Ex 23
+def odious "(T[n]=@0 => s=2*n+1) & (T[n]=@1 => s=2*n)":
+
+###Ex 24
+def two1 "T[r]=@1 & T[n+r]=@1":
+def two1min "$two1(n,r) & As s<r => ~$two1(n,s)":
+
+###Ex 25
+def sbrun "Aj (i<=j & j<i+n) => SB[j]=@0":
+def sbfirstrun "$sbrun(s,n) & At t<s => ~$sbrun(t,n)":
+eval sbruncheck "An,s $sbfirstrun(n,s) <=> ((n<=3 & s=0) | (Ex $power2(x) & n>=4 & x<n & n<=2*x & s=4*x))":
+
+###Ex 26
+def tmpref0 "Er,t n=2*t+r & r<2 & (r=0 => s=t) & ((r=1 & T[n-1]=@1) => s=t) & ((r=1 & T[n-1]=@0) => s=t+1)":
+def tmfac0 "Et,u $tmpref0(i+n,t) & $tmpref0(i,u) & s+u=t":
+def tmfac1 "Er $tmfac0(i,n,r) & n=r+s":
+def tmabelfaceq "Es $tmfac0(i,n,s) & $tmfac0(j,n,s)":
+eval tmabcomp n "Aj j<i => ~$tmabelfaceq(i,j,n)":
+
+###Ex 27
+def sum2e "E i,j n=i+j & T[i]=@0 & T[j]=@0":
+reg power4 msd_2 "0*1(00)*":
+eval sum2echeck "An (n=2|n=4|(Ex $power4(x) & n+1=2*x))<=> ~$sum2e(n)":
+
+###Ex 28
+def sum3de "E i,j,k i<j & j<k & n=i+j+k & T[i]=@0 & T[j]=@0 & T[k]=@0":
+eval sum3decheck "An n>10 => $sum3de(n)":

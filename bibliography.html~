@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>Bibliography</title>
+</head>
+
+<body bgcolor="white" text="black">
+
+<h1>Bibliography</h1> 
+
+
+<h2>Combinatorics on Words</h2>
+
+<h3>Paperfolding</h3>
+<ol>
+  <li>J.-P. Allouche,
+  "Suites infinies &agrave; r&eacute;p&eacute;titions born&eacute;es",
+  <i>S&eacute;minaire de Th&eacute;orie des Nombres de Bordeaux</i>
+  (1983--1984), 20-01-20-11, Expos&eacute; 20.</li>
+
+  <li>J.-P. Allouche, "The number of factors in a paperfolding sequence",
+  <i>Bull. Austral. Math. Soc.</i> <b>46</b> (1992), 23-32.</li>
+
+  <li>J.-P. Allouche, M. Bousquet-M&eacute;lou,
+  "Canonical positions for the factors in paperfolding sequences",
+  <i>Theoret. Comput. Sci.</i> <b>129</b> (1994), 263-278.</li>
+
+  <li>J.-P. Allouche, M. Bousquet-M&eacute;lou,
+  <a href="http://www.labri.fr/~bousquet/Articles/Mots/rs.dvi">
+  "Facteurs des suites de Rudin-Shapiro g&eacute;n&eacute;ralis&eacute;es"</a>,
+  Journ&eacute;es Montoises d'Informatique Th&eacute;orique,
+  <i>Bull. Belg. Math. Soc.</i>  <b>1</b> (1994), 145-164.</li>
+
+  <li>S. V. Avgustinovich, D. G. Fon-Der-Flaass, A. E. Frid,
+  <a href="http://www.math.nsc.ru/LBRT/k4/Frid/Frid_arithm.ps">
+  "Arithmetical complexity of infinite words"</a>.  In Masami Ito and Teruo
+  Imaoka, eds, <i>Words, Languages & Combinatorics III</i>, pp. 51-62,
+  Singapore, 2003.</li>
+
+  <li>A. Blanchard, M. Mend&egrave;s France,
+  "Sym&eacute;trie et transcendance",
+  <i>Bull. Sci. Math.</i> <b>106</b> (1982), 325-335.</li>
+
+  <li>M. Dekking, M. Mend&egrave;s France, A. van der Poorten, "FOLDS!",
+  <i>Math. Intelligencer</i> <b>4</b> (1982), 130-138; 173-181; 190-195.</li>
+
+  <li>M. Mend&egrave;s France,
+  "Principe de la sym&eacute;trie perturb&eacute;e",
+  <i>S&eacute;minaire de Th&eacute;orie des Nombres de Paris</i> (1979--1980),
+  77-98.</li>
+
+  <li>H. Prodinger, F. J. Urbanek,
+  <a href="http://dx.doi.org/10.1016/0012-365X(79)90135-3">
+  "Infinite 0-1-sequences without long adjacent identical blocks"</a>,
+  <i>Discrete Math.</i> <b>28</b> (1979), 277-289.</li>
+</ol>
+
+<h3>Words avoiding repetitions</h3>
+<ol>
+  <li>A. Carpi, <a href="http://dx.doi.org/10.1016/0304-3975(88)90080-1">
+  "Multidimensional unrepetitive configurations"</a>,
+  <i>Theoret. Comput. Sci.</i> <b>56</b> (1988), 233-241.</li>
+
+  <li>R. C. Entringer, D. E. Jackson, J. A. Schatz,
+  <a href="http://dx.doi.org/10.1016/0097-3165(74)90041-7">
+  "On nonrepetitive sequences"</a>, <i>J. Combin. Theory Ser. A</i> <b>16</b>
+  (1974), 159-164.</li>
+
+  <li>A. Thue, "Uber unendliche Zeichenreihen",
+  <i>Kra. Vidensk. Selsk. Skrifter. I. Mat. Nat. Kl.</i> <b>1</b> (1906),
+  1-22.  Reprinted in <i>Selected Mathematical Papers of Axel Thue</i>,
+  T. Nagell et al., editors, Universitetsforlaget, Oslo, 1977,
+  pp. 139-158.</li>
+</ol>
+</body>
+</html>

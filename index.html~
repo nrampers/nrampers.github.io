@@ -1,0 +1,86 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.css" />
+<title>Narad Rampersad</title>
+</head>
+
+<body>
+<h1>Narad Rampersad</h1>
+
+<p>Postdoctoral Fellow<br>
+<a href="http://mathstats.uwinnipeg.ca">Department of Mathematics and
+Statistics</a><br>
+<a href="http://www.uwinnipeg.ca">University of Winnipeg</a><br>
+515 Portage Avenue<br>
+Winnipeg, MB  R3B 2E9<br>
+Canada<br>
+<img src="gmail.jpg"></p>
+<hr>
+
+<h2>Publications</h2>
+
+Full list available <a href="publications.html">here</a>.
+
+<h2>Selected Talks</h2>
+<ul>
+  <li><a href="burnside.pdf">Combinatorics on Words and Noncommutative
+  Algebra</a>, Department of Mathematics and Statistics, University of
+  Winnipeg, 18 November 2009.</li>
+
+  <li><a href="dejean2.pdf">Proving Dejean's Conjecture</a>,
+  Department of Computer Science, University of Manitoba, 29 October
+  2009.</li>
+  
+  <li><a href="dejean.pdf">Recent Progress on Dejean's Conjecture</a>,
+  CORS/INFORMS International Meeting 2009, Toronto, Canada,
+  16 June 2009.</li>
+
+  <li><a href="cerny.pdf">Cerny's Conjecture</a>,
+  Department of Mathematics and Statistics, University of Winnipeg,
+  27 October 2008.</li>
+
+  <li><a href="jm08.pdf">Infinite Words Containing Squares at Every
+  Position</a>, 12emes Journees Montoises D'Informatique
+  Theorique, Universite de Mons-Hainaut, Mons, Belgium, 27 August 2008.</li>
+
+  <li><a href="brandon_talk.pdf">Combinatorics on Words: Applications to
+  Number Theory and Ramsey Theory</a>, Conference of the Prairie Network
+  for Research in Mathematical Sciences, Brandon University, 9 May 2008.</li>
+
+  <li><a href="pal_talk.pdf">Automata, Palindromes, Powers, and Patterns</a>.
+  LATA 2008, Tarragona, Spain, 19 March 2008.
+
+  <li><a href="approximate_squares.pdf">Avoiding Approximate Squares</a>.
+  Algorithms Seminar, School of Computer Science, University of Waterloo,
+  13 June 2007.</li>
+
+  <li><a href="paperfolding_talk.pdf">Paperfolding and Words Avoiding
+  Repetitions</a>.  Algorithms Seminar, School of Computer Science,
+  University of Waterloo, 8 November 2006.</li>
+</ul>
+
+<h2>Courses Taught</h2>
+<ul>
+  <li><a href="math1401/index.html">MATH 1401</a> (Discrete Mathematics),
+  Spring 2008, Fall 2009.</li>
+
+  <li><a href="http://www.student.cs.uwaterloo.ca/~cs462">CS 462</a>
+  (Formal Languages and Parsing), Fall 2005.</li>
+</ul>
+
+<h2>Miscellaneous</h2>
+<ul>
+  <li><a href="cv.pdf">CV</a></li>
+
+  <li><a href="conferences.html">Conferences</a></li>
+
+  <li><a href="links.html">Links</a></li>
+
+  <li><a href="http://picasaweb.google.com/narad.rampersad">Photographs</a>
+
+  <li>Erdos number: <b>2</b>
+  (via <a href="http://www.cs.uwaterloo.ca/~shallit/">Jeffrey Shallit</a>)
+  </li>
+</ul>
+</body>
+</html>

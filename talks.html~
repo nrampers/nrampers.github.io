@@ -1,0 +1,113 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.css" />
+<title>Talks</title>
+</head>
+
+<body>
+<h1>Talks</h1>
+
+<ul>
+  <li><a href="decidability.pdf">Decidable Properties of Automatic
+  Sequences</a>, Central Sectional Meeting of the
+  American Mathematical Society, Minneapolis, Minnesota, October 2016.</li>
+  
+  <li><a href="computing_pi.pdf">Computing Pi</a>, University of
+  Winnipeg Math Dialogue, February 2015.</li>
+  
+  <li><a href="inversions_talk.pdf">Some Properties of a
+  Rudin-Shapiro-like sequence</a>, Eastern Sectional Meeting of the
+  American Mathematical Society, Halifax, Nova Scotia, October
+  2014.</li>
+  
+  <li>Avoiding Repetitions in Words, <a
+   href="ekaterinburg.pdf">Part I</a>, <a
+   href="ekaterinburg2.pdf">Part II</a>, <a
+   href="ekaterinburg3.pdf">Part III</a>, Computer Science E-Days
+  2014, Ekaterinburg, Russia.</li>
+  
+  <li>Repetitions in Words, <a href="fields1.pdf">Part I</a>, <a
+  href="fields2.pdf">Part II</a>, Challenges in Combinatorics on Words
+  2013, Fields Institute, Toronto, Canada.</li>
+  
+  <li>Repetitions in Words, <a href="cant1.pdf">Part I</a>, <a
+  href="cant2.pdf">Part II</a>, <a href="cant3.pdf">Part III</a>, <a
+  href="cant4.pdf">Part IV</a>, Combinatorics, Automata, and Number
+  Theory 2012, Marseille, France.</li>
+  
+  <li><a href="decidable_props.pdf">Decidable Properties of Automatic
+  Sequences</a>, Summer Meeting of the Canadian Mathematical Society
+  2011, Edmonton, Alberta, 4 June 2011.</li>
+  
+  <li><a href="abs_num_sys.pdf">Abstract Numeration Systems</a>, LATA
+  2011, Tarragona, Spain, May 2011.</li>
+  
+  <li><a href="reps_survey.pdf">Repetitions in Words: Classical and
+  Recent Results</a>, 13emes Journees Montoises D'Informatique
+  Theorique, Amiens, France, 6 September 2010.</li>
+  
+  <li><a href="divisibility.pdf">The State Complexity of Testing
+  Divisibility</a>, DCFS 2010, Saskatoon, Saskatchewan, 8 August
+  2010.</li>
+  
+  <li><a href="words.pdf">Non-Constructive Methods in Combinatorics on
+  Words</a>, Numeration 2010, Lorentz Center, Leiden, The Netherlands, 9
+  June 2010.
+  
+  <li><a href="numeration.pdf">The State Complexity of Testing
+  Divisibility in Linear Numeration Systems</a>, LIAFA, University of
+  Paris 7, 4 June 2010.</li>
+    
+  <li>Non-Repetitive Sequence Games, Computer Science and
+  Communications Research Unit, University of Luxembourg, 10 May
+  2010.</li>
+
+  <li><a href="cerny2.pdf">Synchronizing Automata</a>, Louvain School
+  of Engineering, Catholic University of Louvain, 30 April 2010.
+  
+  <li><a href="abelian.pdf">Abelian Repetitions and Related
+  Topics</a>, CIRM, University of Aix-Marseille II, 6 April
+  2010.</li>
+  
+  <li><a href="repetitions.pdf">Repetitions in Words</a>, Mathematics
+  Institute of Luminy, University of Aix-Marseille II, 9 March
+  2010.</li>
+  
+  <li><a href="burnside.pdf">Combinatorics on Words and Noncommutative
+  Algebra</a>, Department of Mathematics and Statistics, University of
+  Winnipeg, 18 November 2009.</li>
+
+  <li><a href="dejean2.pdf">Proving Dejean's Conjecture</a>,
+  Department of Computer Science, University of Manitoba, 29 October
+  2009.</li>
+  
+  <li><a href="dejean.pdf">Recent Progress on Dejean's Conjecture</a>,
+  CORS/INFORMS International Meeting 2009, Toronto, Canada,
+  16 June 2009.</li>
+
+  <li><a href="cerny.pdf">Cerny's Conjecture</a>,
+  Department of Mathematics and Statistics, University of Winnipeg,
+  27 October 2008.</li>
+
+  <li><a href="jm08.pdf">Infinite Words Containing Squares at Every
+  Position</a>, 12emes Journees Montoises D'Informatique
+  Theorique, Universite de Mons-Hainaut, Mons, Belgium, 27 August 2008.</li>
+
+  <li><a href="brandon_talk.pdf">Combinatorics on Words: Applications to
+  Number Theory and Ramsey Theory</a>, Conference of the Prairie Network
+  for Research in Mathematical Sciences, Brandon University, 9 May 2008.</li>
+
+  <li><a href="pal_talk.pdf">Automata, Palindromes, Powers, and Patterns</a>.
+  LATA 2008, Tarragona, Spain, 19 March 2008.
+
+  <li><a href="approx.pdf">Avoiding Approximate Squares</a>.
+  Algorithms Seminar, School of Computer Science, University of Waterloo,
+  13 June 2007.</li>
+
+  <li><a href="paperfolding_talk.pdf">Paperfolding and Words Avoiding
+  Repetitions</a>.  Algorithms Seminar, School of Computer Science,
+  University of Waterloo, 8 November 2006.</li>
+</ul>
+
+</body>
+</html>

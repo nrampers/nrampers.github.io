@@ -1,0 +1,628 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.css" />
+<title>Publications</title>
+</head>
+
+<body>
+<h1>Publications</h1>
+
+<p>A list of <a href="errata.html">errata</a> is available.</p>
+
+<h2>Book chapters</h2>
+<ol>
+  <li>J. Shallit, N. Rampersad, "Repetitions in words".  In <i><a
+  href="http://www.cambridge.org/9781107077027">Combinatorics, Words and
+  Symbolic Dynamics</a></i>, Cambridge, 2016.
+  </li>
+</ol>
+
+<h2>Preprints</h2>
+<ol>
+  <li>J. Currie,
+  N. Rampersad, <a href="https://arxiv.org/abs/2310.07010">"The
+  lexicographically least binary rich word achieving the repetition
+  threshold"</a>.</li>
+  
+  <li>J. Currie,
+  N. Rampersad, <a href="https://arxiv.org/abs/2311.12962">"The
+  analogue of overlap-freeness for the Fibonacci morphism"</a>.</li>
+  
+  <li>N. Rampersad,
+  M. Wiebe, <a href="https://arxiv.org/abs/2309.04012">"Sums of
+  products of binomial coefficients mod 2 and 2-regular
+  sequences"</a>.</li>
+
+  <li>N. Rampersad,
+  M. Wiebe, <a href="https://arxiv.org/abs/2309.07070">"Correlations of minimal
+  forbidden factors of the Fibonacci word"</a>.</li>
+  
+  <li> N. Rampersad, J. Shallit, <a
+  href="https://arxiv.org/abs/2302.00405">"Rudin-Shapiro sums via
+  automata theory and logic"</a>.</li>
+  
+  <li> L. Mol, N. Rampersad, J. Shallit, <a
+  href="https://arxiv.org/abs/2301.06145">"Dyck words, pattern
+  avoidance, and automatic sequences"</a>.</li>
+  
+  <li>J. Currie, L. Dvorakova, P. Ochem, D. Opocenska, N. Rampersad, J. Shallit, <a
+  href="https://arxiv.org/abs/2209.09598">"Complement avoidance in
+  binary words"</a>.</li>
+  
+  <li> J. Currie, L. Mol, N. Rampersad, J. Shallit, <a
+  href="https://arxiv.org/abs/2111.07857">"Extending Dekking's
+  construction of an infinite binary word avoiding abelian
+  4-powers"</a>.</li>
+
+  <li>P. Gawrychowski, M. Lange, N. Rampersad, J. Shallit, M. Szykula, <a
+  href="https://arxiv.org/abs/1702.03961">"Existential length
+  universality"</a>.</li>
+</ol>
+
+<h2>Journal publications</h2>
+<ol>
+  <li>A. Baranwal, J. Currie, L. Mol, P. Ochem, N. Rampersad,
+      J. Shallit, <a href="https://doi.org/10.46298/dmtcs.10063">"Antisquares
+      and critical exponents"</a>, <i>Discrete
+      Math. Theoret. Comput. Sci.</i> <b>25:2</b> (2023).</li>
+    
+  <li>J. Currie, P. Ochem, N. Rampersad,
+J. Shallit, <a href="https://www.rairo-ita.org/articles/ita/abs/2023/01/ita220038/ita220038.html">"Properties
+of a ternary infinite word"</a>, <i>Theor. Inform. Appl.</i> <b>57</b>
+(2023).</li>
+  
+  <li>N. Rampersad, <a href="https://arxiv.org/abs/2112.04416">"The
+  periodic complexity function of the Thue-Morse word, the
+  Rudin-Shapiro word, and the period-doubling word"</a>,
+  <i>Australas. J. Combin.</i> <b>85</b> (2023), 150-158.</li>
+  
+  <li>N. Rampersad <a
+  href="https://doi.org/10.5802/crmath.408">"Prefixes of the Fibonacci
+  word that end with a cube"</a>, <i>C. R. Math. Acad. Sci. Paris</i>
+  <b>361</b> (2023), 323-330.</li>
+  
+  <li> N. Rampersad, J. Shallit, <a
+  href="https://arxiv.org/abs/2110.06244">"Congruence properties of
+  combinatorial sequences via Walnut and the
+  Rowland-Yassawi-Zeilberger automaton"</a>,
+  <i>Electron. J. Combin.</i>, <b>29</b> (2022), Article P3.36.
+
+  Here are the <a href="cat_motz_walnut.zip">automata in Walnut format</a> used in
+  this paper.</li>
+  
+  <li> M. Jahannia, M. Mohammad-noori, N. Rampersad, M. Stipulanti,
+  <a href="https://authors.elsevier.com/sd/article/S0304-3975(22)00162-1">"Closed Ziv-Lempel
+  factorization of the m-bonacci words"</a>,
+  <i>Theoret. Comput. Sci.</i>, <b>918</b> (2022), 32-47.</li>
+  
+  <li>I. Kaye,
+  N. Rampersad, <a href="http://math.colgate.edu/~integers/v46/v46.mail.html">"The
+  abelian complexity of infinite words and the Frobenius
+      problem"</a>, <i>INTEGERS</i> <b>21</b> (2021), Article A46.</li>
+  
+  <li> M. Milosevic, N. Rampersad, <a
+  href="https://arxiv.org/abs/2007.03557">"Squarefree words with
+  interior disposable factors"</a>, <i>Theoret. Comput. Sci.</i>
+  <b>863</b> (2021), 120-126.</li>
+  
+  <li> D. Gabric, N. Rampersad, J. Shallit, <a
+  href="https://arxiv.org/abs/2005.11718">"An inequality for the
+  number of periods in a word"</a>, 
+  <i>Internat. J. Found. Comp. Sci.</i> <b>32</b> (2021), 597--614.
+  <a href="errata.html#per_ice">Erratum</a>.</li>
+  
+  <li> L. Mol, N. Rampersad, <a
+  href="https://doi.org/10.11575/cdm.v16i1.69831">"Lengths of extremal
+  square-free ternary words"</a>, <i>Contrib. Discrete
+  Math.</i> <b>16</b> (2021), 8--19.</li>
+    
+  <li> L. Mol, N. Rampersad, J. Shallit, <a
+  href="https://doi.org/10.37236/9703">"Extremal overlap-free and
+  extremal beta-free binary words"</a>,
+  <i>Electron. J. Combinatorics</i>
+  <b>27</b> (2020), Article P4.42.</li>
+  
+  <li> L. Mol, N. Rampersad, <a
+  href="https://arxiv.org/abs/1912.11388">"The weak circular
+  repetition threshold over large alphabets"</a>,
+  <i>Theor. Inform. Appl.</i> <b>54</b> (2020), Article 6.</li>
+  
+  <li> J. Currie, L. Mol, N. Rampersad, <a
+  href="https://cs.uwaterloo.ca/journals/JIS/VOL23/Mol/mol2.html">"The
+  number of threshold words on n letters grows exponentially for every
+  n &ge; 27"</a>, <i>J. Integer Sequences</i> <b>23</b> (2020),
+  Article 20.3.1</li>
+  
+  <li> J. Currie, L. Mol, N. Rampersad, <a
+  href="https://dmtcs.episciences.org/6082">"The repetition threshold
+  for binary rich words"</a>, <i>Discrete
+  Math. Theoret. Comput. Sci.</i> <b>22</b> (no. 1) (2020), Article 6.</li>
+  
+  <li>L. Mol, N. Rampersad, J. Shallit, M. Stipulanti,
+    <a href="https://arxiv.org/abs/1809.00679">"Cobham's theorem
+      and automaticity"</a>, <i>Internat. J. Found. Comp. Sci.</i>
+    <b>30</b> (2019), 1363-1379.</li>
+  
+  <li>J. Currie, T. Harju, P. Ochem,
+  N. Rampersad, <a href="https://doi.org/10.1016/j.tcs.2019.10.006">"Some
+  further results on squarefree arithmetic progressions in
+  infinite words"</a>, <i>Theoret. Comput. Sci.</i> <b>799</b> (2019),
+    140-148.</li>  
+
+  <li> M. Jahannia, M. Mohammad-noori, N. Rampersad, M. Stipulanti,
+    <a href="https://doi.org/10.1016/j.tcs.2019.05.010">"Palindromic Ziv-Lempel
+      and Crochemore factorizations of m-bonacci infinite
+      words"</a>, <i>Theoret. Comput. Sci.</i> <b>790</b> (2019),
+    16-40.</li>
+  
+  <li>J. Currie, L. Mol,
+  N. Rampersad, <a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v26i2p31">"Circular
+  repetition thresholds on some small alphabets: Last cases of
+  Gorbunova's
+  conjecture"</a>, <i>Electron. J. Combinatorics</i> <b>26</b> (2019),
+  Article P2.31.</li>
+
+  <li>N. Rampersad, J. Shallit,
+  E. Vandomme, <a href="https://doi.org/10.1016/j.tcs.2018.10.017">"Critical
+  exponents of infinite balanced
+  words"</a>, <i>Theoret. Comput. Sci.</i> <b>777</b> (2019),
+  454-463.</li>
+
+  <li>N. Rampersad,
+  M. Stipulanti, <a href="https://cs.uwaterloo.ca/journals/JIS/VOL21/Stipulanti/stip8.html">"The
+  formal inverse of the period-doubling sequence"</a>, <i>J. Integer
+  Sequences</i> <b>21</b> (2018), Article 18.9.1.</li>
+   
+  <li>J. Currie, L. Mol, N. Rampersad, <a
+  href="https://doi.org/10.1016/j.tcs.2018.04.039">"Avoidance bases for
+  formulas with reversal"</a>, <i>Theoret. Comput. Sci.</i> <b>738</b>
+  (2018), 25-41. </li>
+
+  <li>A. Borchert, N. Rampersad, <a
+  href="https://arxiv.org/abs/1710.08820">"Permutation complexity of
+  images of Sturmian words by marked morphisms"</a>, <i>
+  Discrete Math. Theoret. Comput. Sci</i> <b>20</b> (2018), Article
+      20-1-20.</li>  
+
+  <li>J. Nicholson, N. Rampersad, <a
+  href="https://cs.uwaterloo.ca/journals/JIS/VOL21/Rampersad/ramper9.html">"Improved estimates for the number of privileged words"</a>, <i>J. Integer
+  Sequences</i> <b>21</b> (2018), Article 18.3.8.</li>
+
+  <li> C. Krawchuk, N. Rampersad, <a
+  href="http://math.colgate.edu/~integers/vol18a.html">"Cyclic
+  complexity of some infinite words and generalizations"</a>,
+  <i>INTEGERS</i> <b>18a</b> (2018), Article A12.</li>
+  
+  <li>J. Currie, L. Mol, N. Rampersad, <a
+  href="https://doi.org/10.1051/ita/2017013">"On avoidability of formulas
+  with reversal"</a>, <i>Theor. Inform. Appl.</i> <b>51</b> (2018),
+  181-189.</li>
+
+  <li>J. Nicholson, N. Rampersad, <a
+  href="http://rdcu.be/qrAS">"The Frobenius problem for
+  the shuffle operation"</a>, <i>Semigroup Forum</i> <b>96</b> (2018),
+  160-177.</li>
+
+  <li>J. Currie, L. Mol, N. Rampersad, <a
+  href="https://arxiv.org/abs/1611.03535">"A family of formulas with
+  reversal of high avoidability index"</a>,
+  <i>Internat. J. Algebra and Computation</i> <b>27</b> (2017),
+  477-494.</li>
+
+  <li>J. Nicholson, N. Rampersad, <a
+  href="http://arxiv.org/abs/1507.08206">"Non-repetitive complexity of
+  infinite words"</a>, <i>Discrete Appl. Math.</i> <b>208</b> (2016),
+  114-122.</li>
+
+  <li>S. Camungol, N. Rampersad, <a
+  href="http://arxiv.org/abs/1308.1620">"Avoiding approximate
+  repetitions with respect to the longest common subsequence
+  distance"</a>, <i>Involve</i> <b>9</b> (2016), 657-666.</li>
+
+  <li>J. Currie, N. Rampersad, <a
+  href="http://arxiv.org/abs/1502.07014">"Growth rate of binary words
+  avoiding xxx^R"</a>, <i>Theoret. Comput. Sci.</i> <b>609</b> (2016),
+  456-468.  <a href="errata.html#xxxr">Errata</a>.</li>
+
+  <li>A. Borchert, N. Rampersad, <a
+  href="http://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i4p23">"Words
+  with many palindrome pair factors"</a>,
+  <i>Electron. J. Combinatorics</i> <b>22</b> (2015), Paper
+  \#P4.23.</li>
+
+  <li>J. Currie, N. Rampersad, <a
+  href="https://cs.uwaterloo.ca/journals/JIS/VOL18/Currie/currie12.html">"Binary words
+  avoiding xx^Rx and strongly unimodal sequences"</a>, <i>J. Integer
+  Sequences</i> <b>15</b> (2015), Article 15.10.3.</li>
+
+  <li>J. Currie, N. Rampersad, K. Saari, <a
+  href="http://dx.doi.org/10.1017/etds.2014.5">"Suffix conjugates for a
+  class of morphic subshifts"</a>, <i>Ergodic Theory
+  Dynam. Systems</i> <b>35</b> (2015), 1767-1782.</li>
+
+  <li>P. Lafrance, N. Rampersad, R. Yee, <a
+  href="http://dx.doi.org/10.1016/j.aam.2014.10.006">"Some properties of a
+  Rudin--Shapiro-like sequence"</a>, <i>Adv. Appl. Math.</i> <b>63</b>
+  (2015), 19-40.</li>
+
+  <li>D. Goc, N. Rampersad, M. Rigo, P. Salimov, <a
+  href="http://dx.doi.org/10.1142/S0129054114400267">"On the number of abelian
+  bordered words (with an example of automatic theorem proving)"</a>,
+  <i>Internat. J. Found. Comp. Sci.</i> <b>25</b> (2014), 1097-1110.</li>
+
+  <li>F. Blanchet-Sadri, N. Fox, N. Rampersad, <a
+  href="http://dx.doi.org/10.1016/j.aam.2014.08.005">"On the
+  asymptotic abelian complexity of morphic words"</a>,
+  <i>Adv. Appl. Math.</i> <b>61</b> (2014), 46-84.</li>
+
+  <li>N. Rampersad, M. Rigo, P. Salimov, <a
+  href="http://dx.doi.org/10.1016/j.tcs.2014.01.033">"A note on
+  abelian returns in rotation words"</a>, <i>Theoret. Comput. Sci.</i>
+  <b>528</b> (2014), 101-107.</li>
+
+  <li>F. Blanchet-Sadri, J. Currie, N. Fox, N. Rampersad, <a
+  href="http://www.integers-ejcnt.org/vol14.html">"Abelian complexity
+  of fixed point of morphism 0&rarr;012, 1&rarr;02, 2&rarr;1"</a>,
+  <i>INTEGERS</i> <b>14</b> (2014), A11.</li>
+
+  <li>J. Currie, N. Rampersad, K. Saari, L. Zamboni, <a
+   href="http://dx.doi.org/10.1016/j.disc.2014.01.002">"Extremal words
+  in morphic subshifts"</a>, <i>Discrete Math.</i> <b>322</b> (2014),
+  53-60.</li>
+
+  <li>S. Camungol, N. Rampersad, <a
+  href="https://cs.uwaterloo.ca/journals/JIS/VOL16/Camungol/ramper4.html">"Concerning
+  Kurosaki's squarefree word"</a>, <i>J. Integer Seq.</i>
+  <b>16</b> (2013), Article 13.9.4, 6 pages.</li>
+
+  <li>N. Rampersad, E. Vaslet, <a
+  href="https://cs.uwaterloo.ca/journals/JIS/VOL16/Rampersad/rampersad3.html">"On
+  highly repetitive and power free words"</a>, <i>J. Integer Seq.</i>
+  <b>16</b> (2013), Article 13.2.7, 17 pages.</li>
+
+  <li>B. Madill, N. Rampersad, <a
+  href="http://arxiv.org/abs/1208.2856">"The abelian complexity of the
+  paperfolding word"</a>, <i>Discrete Math.</i> <b>313</b> (2013),
+  831-838.</li>
+
+  <li>A. Lacroix,
+  N. Rampersad, <a href="http://www.dmtcs.org/dmtcs-ojs/index.php/dmtcs/article/view/2006">"Automaticity
+  of primitive words and irreducible polynomials"</a>, <i>Discrete
+  Math. Theoret. Comput. Sci.</i>, <b>15</b> (2013), 29-36.</li>
+
+  <li>D. Henshall, N. Rampersad, J. Shallit, <a
+  href="http://arxiv.org/abs/1106.5767">"Shuffling and
+  unshuffling"</a>, <i>Bull. Europ. Assoc. Theoret. Comput. Sci.</i>
+  <b>107</b> (2012), 131-142.</li>
+
+  <li>E. Charlier, N. Rampersad, J. Shallit, <a
+  href="http://dx.doi.org/10.1142/S0129054112400448">"Enumeration and decidable
+  properties of automatic sequences"</a>,
+  <i>Internat. J. Found. Comp. Sci.</i> <b>23</b> (2012),
+  1035-1066.</li>
+
+  <li>M. Domaratzki, N. Rampersad, <a
+  href="http://dx.doi.org/10.1142/S0129054112400436">
+  "Abelian primitive words"</a>, <i>Internat. J. Found. Comp. Sci.</i>
+  <b>23</b> (2012), 1021-1033.</li>
+
+  <li>N. Rampersad, J. Shallit, Z. Xu,
+  <a href="http://dx.doi.org/10.3233/FI-2012-680">
+  "The computational complexity of universality problems for prefixes,
+  suffixes, factors, and subwords of regular languages"</a>,
+  <i>Fundamenta Informaticae</i> <b>116</b> (2012), 223-236.</li>
+
+  <li> A. Lacroix, N. Rampersad, M. Rigo, E. Vandomme, <a
+   href="http://dx.doi.org/10.3233/FI-2012-677">"Syntactic complexity
+  of ultimately periodic sets of integers and application to a
+  decision procedure"</a>, <i>Fundamenta Informaticae</i> <b>116</b>
+  (2012), 175-187.</li>
+
+  <li>E. Charlier, A. Lacroix, N. Rampersad,
+  <a href="http://dx.doi.org/10.1051/ita/2011112">"Multi-dimensional sets
+  recognizable in all abstract numeration systems"</a>,
+  <i>Theor. Inform. Appl.</i> <b>46</b> (2012), 51-65.</li>
+
+  <li>J. Currie, N. Rampersad, <a
+  href="http://arxiv.org/abs/1106.1842">"Fixed points avoiding Abelian
+  k-powers"</a>, <i>J. Combin. Theory Ser. A</i> <b>119</b> (2012),
+  942-948. <a href="errata.html#ab_decision">Errata.</a></li>
+
+ <li>E. Charlier, N. Rampersad, <a
+  href="http://dx.doi.org/10.1016/j.tcs.2011.05.057">"The growth function of
+  S-recognizable sets"</a>, <i>Theoret. Comput. Sci.</i> <b>412</b>
+  (2011), 5400-5408.</li>
+
+ <li>E. Charlier, N. Rampersad, M. Rigo, L. Waxweiler, <a
+  href="http://www.integers-ejcnt.org/vol11b.html"> "The minimal
+  automaton recognizing mN in a linear numeration system"</a>,
+  <i>Integers</i> <b>11B</b> (2011), A4.</li>
+
+  <li>N. Rampersad, <a
+  href="http://www.combinatorics.org/Volume_18/Abstracts/v18i1p134.html">
+  "Further applications of a power series method for pattern
+  avoidance"</a>, <i>Electron. J. Combinatorics.</i> <b>18</b>(1)
+  (2011), #P134.</li>
+
+  <li>J. Currie, N. Rampersad, <a
+  href="http://http://dx.doi.org/10.1016/j.aam.2010.05.001">
+  "Recurrent words with constant Abelian complexity"</a>,
+  <i>Adv. Appl. Math.</i> <b>47</b> (2011), 116-124.</li>
+
+  <li>J. Currie, N. Rampersad, <a
+  href="http://www.ams.org/journals/mcom/2011-80-274/S0025-5718-2010-02407-X/home.html">
+  "A proof of Dejean's conjecture"</a>, <i>Math. Comp.</i> <b>80</b>
+  (2011), 1063-1070.  <a href="errata.html#dejean">Erratum</a>.</li>
+
+  <li>N. Rampersad, J. Shallit, M.-w. Wang, <a
+  href="http://arxiv.org/abs/1008.2440">"Inverse star, borders, and
+  palstars"</a>, <i>Inform. Process. Lett.</i> <b>111</b> (2011),
+  420-422.</li>
+
+  <li>B. Blakeley, F. Blanchet-Sadri, J. Gunter, N. Rampersad, <a
+  href="http://dx.doi.org/10.1016/j.tcs.2010.09.006">"On the
+  complexity of deciding avoidability of sets of partial words"</a>,
+  <i>Theoret. Comput. Sci.</i> <b>411</b> (2010), 4263-4271.</li>
+
+  <li>P. Gawrychowski, D. Krieger, N. Rampersad, J. Shallit,
+  <a
+  href="http://dx.doi.org/10.1142/S0129054110007441">"Finding
+  the growth rate of a regular or context-free language in polynomial
+  time"</a>, <i>Internat. J. Found. Comp. Sci.</i> <b>21</b> (2010),
+  597-618.</li>
+
+  <li>J. Currie, N. Rampersad, <a
+  href="http://www.dmtcs.org/dmtcs-ojs/index.php/dmtcs/article/view/1048">
+  "Cubefree words with many squares"</a>, <i>Discrete
+  Math. Theoret. Comput. Sci.</i> <b>12</b> (2010), 29-34.</li>
+
+  <li>J. Currie, N. Rampersad,
+  <a href="http://arxiv.org/abs/0803.1189">
+  "Infinite words containing squares at every position"</a>,
+  <i>Theor. Inform. Appl.</i> <b>44</b> (2010), 113-124.</li>
+
+  <li>N. Rampersad, J. Shallit,
+  <a href="http://dx.doi.org/10.1016/j.ipl.2009.11.002">
+  "Detecting patterns in finite regular and context-free languages"</a>,
+  <i>Inform. Process. Lett.</i> <b>110</b> (2010), 108-112.</li>
+
+  <li>J. Currie, N. Rampersad, <a href="http://arxiv.org/abs/0901.3188">
+  "Dejean's conjecture holds for n &ge; 27"</a>,
+  <i>Theor. Inform. Appl.</i> <b>43</b> (2009), 775-778.</li>
+
+  <li>T. Anderson, J. Loftus, N. Rampersad, N. Santean, J. Shallit,
+  <a href="http://dx.doi.org/10.1016/j.ic.2008.06.007">
+  "Detecting palindromes, patterns, and borders in regular languages"</a>,
+  <i>Inform. and Comput.</i> <b>207</b> (2009), 1096-1118.</li>
+
+  <li>J.-Y. Kao, N. Rampersad, J. Shallit,
+  <a href="http://dx.doi.org/10.1016/j.tcs.2009.07.049">
+  "On NFA's where all states are final, initial, or both"</a>,
+  <i>Theoret. Comput. Sci.</i> <b>410</b> (2009), 5010-5021.</li>
+
+  <li>J. Currie, N. Rampersad,
+  <a href="http://dx.doi.org/10.1016/j.tcs.2009.01.026">
+  "Dejean's conjecture holds for n &ge; 30"</a>,
+  <i>Theoret. Comput. Sci.</i> <b>410</b> (2009), 2885-2888.</li>
+
+  <li>J.-P. Allouche, N. Rampersad, J. Shallit,
+  <a href="http://dx.doi.org/10.1016/j.tcs.2009.02.006">
+  "Periodicity, repetitions, and orbits of an automatic sequence"</a>,
+  <i>Theoret. Comput. Sci.</i> <b>410</b> (2009), 2795-2803.</li>
+
+  <li>J. Currie, N. Rampersad,
+  <a href="http://dx.doi.org/10.1016/j.dam.2009.02.010">
+  "There are k-uniform cubefree binary morphisms for all k &ge; 0"</a>,
+  <i>Discrete Appl. Math.</i> <b>157</b> (2009), 2548-2551.</li>
+
+  <li>N. Rampersad, B. Ravikumar, N. Santean, J. Shallit,
+  <a href="http://dx.doi.org/10.1016/j.tcs.2009.02.035">
+  "State complexity of unique rational operations"</a>,
+  <i>Theoret. Comput. Sci.</i> <b>410</b> (2009), 2431-2441.</li>
+
+  <li>D. Krieger, A. Miller, N. Rampersad, B. Ravikumar, J. Shallit,
+  <a href="http://dx.doi.org/10.1016/j.tcs.2009.02.024">"Decimations
+  of languages and state complexity"</a>, <i>Theoret. Comput. Sci.</i>
+  <b>410</b> (2009), 2401-2409.</li>
+
+  <li>N. Rampersad, <a href="patterns.pdf">"Avoiding sufficiently large binary
+  patterns"</a>, <i>Bull. Europ. Assoc. Theoret. Comput. Sci.</i> <b>95</b>
+  (2008), 241-245.
+  </li>
+
+  <li>J. Currie, N. Rampersad,
+  <a href="http://www.combinatorics.org/Volume_15/Abstracts/v15i1n34.html">
+  "For each &alpha; &gt; 2 there is an infinite binary word with
+  critical exponent &alpha;"</a>, <i>Electron. J. Combinatorics</i>
+  <b>15</b> (2008), #N34.</li>
+
+  <li>P. Ochem, N. Rampersad, J. Shallit,
+  <a href="http://dx.doi.org/10.1142/S0129054108005863">
+  "Avoiding approximate squares"</a>, <i>Internat. J. Found. Comp. Sci.</i>
+  <b>19</b> (2008), 633-648.</li>
+
+  <li>B. Adamczewski, N. Rampersad,
+  <a href="http://dx.doi.org/10.1090/S0002-9939-08-09319-2">"On patterns
+  occurring in binary algebraic numbers"</a>,
+  <i>Proc. Amer. Math. Soc.</i> <b>136</b> (2008), 3105-3109.</li>
+
+  <li>J.-Y. Kao, N. Rampersad, J. Shallit, M. Silva,
+  <a href="http://dx.doi.org/10.1016/j.tcs.2007.10.039">"Words avoiding
+  repetitions in arithmetic progressions"</a>, <i>Theoret. Comput. Sci.</i>
+  <b>391</b> (2008), 126-137.</li>
+
+  <li>N. Rampersad, <a href="http://dx.doi.org/10.1016/j.ipl.2006.11.008">"On
+  the context-freeness of the set of words containing overlaps"</a>,
+  <i>Inform. Process. Lett.</i> <b>102</b> (2007), 74-78.</li>
+
+  <li>J. Currie, N. Rampersad, J. Shallit,
+  <a href="http://www.combinatorics.org/Volume_13/Abstracts/v13i1r82.html">
+  "Binary words containing infinitely many overlaps"</a>, <i>Electron. J.
+  Combinatorics</i> <b>13</b> (2006), #R82.</li>
+
+  <li>N. Rampersad, <a href="http://dx.doi.org/10.1016/j.ipl.2005.06.011">
+  "The state complexity of L<sup>2</sup> and L<sup>k</sup>"</a>,
+  <i>Inform. Process. Lett.</i> <b>98</b> (2006), 231-234.</li>
+
+  <li>S. Brown, N. Rampersad, J. Shallit, T. Vasiga,
+  <a href="http://dx.doi.org/10.1051/ita:2006030">"Squares and overlaps in
+  the Thue-Morse sequence and some variants"</a>,
+  <i>Theor. Inform. Appl.</i> <b>40</b> (2006), 473-484.</li>
+
+  <li>N. Rampersad, <a href="http://dx.doi.org/10.1142/S0129054105003273">
+  "Words avoiding 7/3-powers and the Thue-Morse morphism"</a>,
+  <i>Internat. J. Found. Comp. Sci.</i> <b>16</b> (2005), 755-766.</li>
+
+  <li>N. Rampersad, J. Shallit, M.-w. Wang,
+  <a href="http://dx.doi.org/10.1016/j.tcs.2005.01.005">"Avoiding large squares
+  in infinite binary words"</a>, <i>Theoret. Comput. Sci.</i> <b>339</b>
+  (2005), 19-34.</li>
+
+  <li>J.-P. Allouche, N. Rampersad, J. Shallit,
+  <a href="http://www.springerlink.com/link.asp?id=u04u04nm43t73775">
+  "On integer sequences whose first iterates are linear"</a>,
+  <i>Aequationes Math.</i> <b>69</b> (2005), 114-127.</li>
+
+  <li>N. Rampersad, J. Shallit,
+  <a href="http://www.arxiv.org/abs/math.CO/0311121">"Words avoiding reversed
+  subwords"</a>, <i>J. Combin. Math. Combin. Comput.</i> <b>54</b> (2005),
+  157-164.</li>
+
+  <li>A. Aberkane, J. Currie, N. Rampersad,
+  <a href="http://www.cs.uwaterloo.ca/journals/JIS/VOL7/Currie/currie18.html">
+  "The number of ternary words avoiding abelian cubes grows exponentially"</a>,
+  <i>J. Integer Seq.</i> <b>7</b> (2004), Article 04.2.7, 13 pages.</li>
+</ol>
+
+<h2>Conference publications</h2>
+<ol>  
+  <li> N. Rampersad, J. Shallit, <a
+  href="https://link.springer.com/chapter/10.1007/978-3-031-33180-0_18">"Rudin-Shapiro
+  sums via automata theory and logic"</a>.  In <i>Proceedings of
+  WORDS'23</i>, Vol. 13899 of <i>Lecture Notes in Computer
+  Science</i>, pp. 233--246, Springer, 2023.</li>
+  
+  <li> L. Mol, N. Rampersad, J. Shallit, <a
+  href="https://link.springer.com/chapter/10.1007/978-3-031-33180-0_17">"Dyck
+  words, pattern avoidance, and automatic sequences"</a>.  In
+  <i>Proceedings of WORDS'23</i>, Vol. 13899 of <i>Lecture Notes in Computer
+  Science</i>, pp. 220--232, Springer, 2023.</li>
+  
+  <li>P. Gawrychowski, M. Lange, N. Rampersad, J. Shallit, M. Szykula, <a
+  href="https://doi.org/10.4230/LIPIcs.STACS.2020.16">"Existential length
+  universality"</a>.  In <i>Proceedings of STACS'20</i>, Vol. 154 of
+  <i>LIPIcs</i>, Dagstuhl, 2020.</li>
+
+  <li> T. Ng, P. Ochem, N. Rampersad,
+  J. Shallit, <a href="https://arxiv.org/abs/1904.09157">"New results
+  on pseudosquare avoidance"</a>.  In <i>Proceedings of
+  WORDS'19</i>, Vol. 11682 of <i>Lecture Notes in Computer
+  Science</i>, pp. 264-274, Springer-Verlag, 2019.</li>
+  
+  <li> A. Rajasekaran, N. Rampersad, J. Shallit, "Overpals, underlaps,
+  and underpals".  In <i>Proceedings of WORDS'17</i>, Vol. 10434 of
+  <i>Lecture Notes in Computer Science</i>, pp. 17-29,
+  Springer-Verlag, 2017.</li>
+
+  <li>J. Currie, N. Rampersad, K. Saari, "Extremal words in the shift
+  orbit closure of a morphic sequence".  In <i>Proceedings of
+  DLT'13</i>, Vol. 7907 of <i>Lecture
+  Notes in Computer Science</i>, pp. 143-154, Springer-Verlag,
+  2013.</li>
+
+  <li>N. Rampersad, M. Rigo, P. Salimov, "On the number of abelian
+  bordered words".  In <i>Proceedings of DLT'13</i>, Vol. 7907 of
+  <i>Lecture Notes in Computer Science</i>, pp. 420-432, Springer-Verlag,
+  2013.</li>
+
+  <li>N. Rampersad, J. Shallit, A. Shur, <a
+  href="http://arxiv.org/abs/1104.3500">"Fife's Theorem for
+  7/3-powers"</a>.  In <i>Proceedings of WORDS'11</i>.</li>
+
+  <li>N. Rampersad, E. Vaslet, "On highly repetitive and power free
+  words".  In <i>Proceedings of DLT'11</i>, Vol. 6795 of <i>Lecture
+  Notes in Computer Science</i>, pp. 441-451, Springer-Verlag,
+  2011.</li>
+
+  <li>E. Charlier, N. Rampersad, J. Shallit, <a
+  href="http://arxiv.org/abs/1102.3698">"Enumeration and decidable
+  properties of automatic sequences"</a>.  In <i>Proceedings of
+  DLT'11</i>, Vol. 6795 of <i>Lecture
+  Notes in Computer Science</i>, pp. 165-179, Springer-Verlag,
+  2011.</li>
+
+  <li>M. Domaratzki, N. Rampersad, <a
+  href="http://arxiv.org/abs/1006.4104">
+  "Abelian primitive words"</a>.  In <i>Proceedings of
+  DLT'11</i>, Vol. 6795 of <i>Lecture
+  Notes in Computer Science</i>, pp. 204-215, Springer-Verlag,
+  2011.</li>
+
+  <li>E. Charlier, N. Rampersad, M. Rigo, L. Waxweiler, "Structure of
+  the minimal automaton of a numeration language and applications to
+  state complexity".  In <i>Proceedings of <a
+  href="http://www.mis.u-picardie.fr/JM2010/index-en.html">Journees
+  Montoises D'Informatique Theorique 2010</a></i>.</i>
+
+  <li>E. Charlier, N. Rampersad, M. Rigo, L. Waxweiler, <a
+  href="http://arxiv.org/abs/1008.1668">"State complexity of
+  testing divisibility"</a>.  In <i>Proceedings of <a
+  href="http://arxiv.org/html/1008.1270">DCFS'10</a></i>.</li>
+
+  <li>F. Blanchet-Sadri, B. Blakeley, J. Gunter, N. Rampersad,
+  "On the complexity of deciding avoidability of sets of partial words".
+  In <i>Proceedings of
+  <a href="http://www-dlt2009.informatik.uni-stuttgart.de/">DLT'09</a>
+  </i>, Vol. 5583 of <i>Lecture Notes in Computer Science</i>,
+  pp. 113-124, Springer-Verlag, 2009.</li>
+
+  <li>J. Currie, N. Rampersad, "Infinite words containing squares at every
+  position".  In <i>Proceedings of
+  <a href="http://www.jmit.ulg.ac.be/jm2008/">Journees Montoises
+  D'Informatique Theorique 2008</a></i>.</li>
+
+  <li>P. Gawrychowski, D. Krieger, N. Rampersad, J. Shallit,
+  "Finding the growth rate of a regular or context-free language in polynomial
+  time"</a>.  In <i>Proceedings of
+  <a href="http://www.cc.kyoto-su.ac.jp/conference/dlt2008/dlt2008.html">
+  DLT'08</a></i>, Vol. 5257 of <i>Lecture Notes in Computer Science</i>,
+  pp. 339-358, Springer-Verlag, 2008.</li>
+
+  <li>T. Anderson, N. Rampersad, N. Santean, J. Shallit,
+  "Finite automata, palindromes, powers, and patterns".  In
+  <i>Proceedings of <a href="http://grammars.grlmc.com/LATA2008/">LATA'08</a>
+  </i>, Vol. 5196 of <i>Lecture Notes in Computer Science</i>, pp. 52-63,
+  Springer-Verlag, 2008.</li>
+
+  <li>D. Krieger, P. Ochem, N. Rampersad, J. Shallit,
+  "Avoiding approximate squares".  In <i>Proceedings of
+  <a href="http://www.math.utu.fi/projects/dlt2007/">DLT'07</a>
+  </i>, Vol. 4588 of <i>Lecture Notes in Computer Science</i>, pp. 278-289,
+  Springer-Verlag, 2007.</li>
+
+  <li>S. Brown, N. Rampersad, J. Shallit, T. Vasiga,
+  "Squares and overlaps in the Thue-Morse sequence and some variants",
+  In <i>Proceedings of WACAM'04</i>, LaRIA Technical Report 2004-07,
+  pp. 15-20, 2004.</li>
+
+  <li>N. Rampersad, "Words avoiding 7/3-powers and the Thue-Morse morphism",
+  In <i>Proceedings of
+  <a href="http://www.cs.auckland.ac.nz/research/conferences/dlt04/">DLT'04</a>
+  </i>, Vol. 3340 of <i>Lecture Notes in Computer Science</i>, pp. 357-367,
+  Springer-Verlag, 2004.</li>
+
+  <li>N. Rampersad, J. Shallit, M.-w. Wang, "Avoiding large squares
+  in infinite binary words".  In <i>Proceedings of
+  <a href="http://www.math.utu.fi/projects/words03/">WORDS'03</a></i>, TUCS
+  General Publication No. 27, pp. 185-197, 2003.</li>
+</ol>
+
+<h2>Thesis</h2>
+<ol>
+ <li>N. Rampersad, <a href="rampersad_thesis.pdf"><i>Overlap-Free
+  Words and Generalizations</i></a>.  Ph.D. thesis, University of Waterloo,
+  2007.</li>
+</ol>
+
+</body>
+</html>

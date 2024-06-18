@@ -1,0 +1,59 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.css" />
+<title>Links</title>
+</head>
+
+<body>
+<h1>Co-authors</h1>
+<ul>
+  <li>Ali Aberkane</li>
+  <li><a href="http://adamczewski.perso.math.cnrs.fr">Boris Adamczewski</a></li>
+  <li><a href="http://www.math.jussieu.fr/~allouche/">Jean-Paul Allouche</a></li>
+  <li>Terry Anderson</li>
+  <li>Brandon Blakeley</li>
+  <li><a href="http://www.uncg.edu/~blanchet/">Francine
+  Blanchet-Sadri</a></li>
+  <li>Adam Borchert</li>
+  <li>Shandy Brown</li>
+  <li>Serina Camungol</li>
+  <li><a href="http://www.discmath.ulg.ac.be/charlier/">Emilie Charlier</a></li>
+  <li><a href="http://ion.uwinnipeg.ca/~currie/">James Currie</a></li>
+  <li><a href="http://www.cs.umanitoba.ca/~mdomarat/">Mike
+  Domaratzki</a></li>
+  <li>Nathan Fox</li>
+  <li>Pawel Gawrychowski</li>
+  <li>Daniel Goc</li>
+  <li>Josh Gunter</li>
+  <li>Dane Henshall</li>
+  <li>Jui-Yi Kao</li>
+  <li>Dalia Krieger</li>
+  <li>Anne Lacroix</li>
+  <li>Philip Lafrance</li>
+  <li>John Loftus</li>
+  <li>Blake Madill</li>
+  <li>Avery Miller</li>
+  <li><a href="http://ion.uwinnipeg.ca/~lmol/">Lucas Mol</a></li>
+  <li>Jeremy Nicholson</li>
+  <li><a href="http://www.lirmm.fr/~ochem/">Pascal Ochem</a></li>
+  <li>Aayush Rajasekaran</li>
+  <li><a href="http://ravi.cs.sonoma.edu">Bala Ravikumar</a></li>
+  <li><a href="http://www.discmath.ulg.ac.be/">Michel Rigo</a></li>
+  <li><a href="http://users.utu.fi/kasaar/">Kalle Saari</a></li>
+  <li>Pavel Salimov</li>
+  <li>Nicolae Santean</a></li>
+  <li><a href="http://www.cs.uwaterloo.ca/~shallit/">Jeffrey Shallit</a>
+  (my Master's and Ph.D. advisor)</li>
+  <li>Arseny Shur</li>
+  <li>Manuel Silva</li>
+  <li><a href="http://www.cs.uwaterloo.ca/~tmjvasig/">Troy
+  Vasiga</a></li>
+  <li><a href="http://lacim.uqam.ca/~elise.vandomme/">Elise Vandomme</a></li>
+  <li>Elise Vaslet</li>
+  <li>Ming-wei Wang</li>
+  <li>Laurent Waxweiler</li>
+  <li>Randy Yee</li>
+  <li>Luca Zamboni</li>
+</ul>
+</body>
+</html>

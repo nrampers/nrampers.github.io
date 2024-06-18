@@ -1,0 +1,45 @@
+body
+{ 
+font-family: Geneva, Arial, Helvetica, sans-serif;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+p
+{ 
+text-align: justify;
+}
+
+h2
+{
+background: rgb(104,104,155);
+}
+
+h3
+{
+background: rgb(204,204,255);
+}
+
+a:link
+{ 
+text-decoration: none;
+color: #6D2542;
+}
+
+a:visited
+{
+text-decoration: none;
+color: #6D2542;
+}
+
+a:hover
+{ 
+text-decoration: underline; 
+color: #6D2542;
+}
+
+a:active
+{ 
+text-decoration: none;
+color: #6D2542;
+}
